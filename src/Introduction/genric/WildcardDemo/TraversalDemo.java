@@ -1,4 +1,4 @@
-package Introduction.genric.StackDemo;
+package Introduction.genric.WildcardDemo;
 
 import Introduction.genric.Hero.AdHero;
 import Introduction.genric.Hero.ApHero;
