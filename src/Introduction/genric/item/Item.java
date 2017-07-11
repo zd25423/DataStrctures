@@ -9,6 +9,15 @@ public class Item implements LoL {
     private String name;
     private int CoolDone;
 
+    public Item(){
+
+    }
+
+    public Item(String name,int CoolDone){
+        this.name=name;
+        this.CoolDone = CoolDone;
+    }
+
     public String getName() {
         return name;
     }
